@@ -11,8 +11,8 @@ This project is based on the paper:
 > DOI: [10.52436/1.jutif.2024.5.2.1635](https://doi.org/10.52436/1.jutif.2024.5.2.1635)
 
 You can read the full paper here:  
-- [Article Link](https://jutif.if.unsoed.ac.id/index.php/jurnal/article/view/1635)  
-- [PDF Download](https://jutif.if.unsoed.ac.id/index.php/jurnal/article/view/1635/475)
+- [Article Link](https://jutif.if.unsoed.ac.id/index.php/jurnal/article/view/1635) ✍️
+- [PDF Download](https://jutif.if.unsoed.ac.id/index.php/jurnal/article/view/1635/475) 📄
 
 ## Features
 
@@ -25,5 +25,8 @@ You can read the full paper here:
 
 ```plaintext
 📂 data/           # Dataset
-📂 notebooks/      # Jupyter notebooks for experiments and visualization
+🪐 K_means_pre_pro_Anies.ipynb
+🪐 K_means_pre_pro_Ganjar.ipynb
+🪐 K_means_pre_pro_Prabowo.ipynb
+🪐 LSTM_Model_Detection.ipynb
 📄 README.md       # Project documentation
