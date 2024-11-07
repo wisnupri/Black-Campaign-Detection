@@ -4,7 +4,7 @@ This project implements a machine learning pipeline combining **K-Means** cluste
 
 ## Paper Reference
 
-This project is based on the paper:
+The project was written and published on the paper:
 
 > **Combination K-Means and LSTM for Social Media Black Campaign Detection of Indonesia Presidential Candidates 2024**  
 > Published in **Jurnal Teknik Informatika (JUTIF), Vol. 5, No. 2, April 2024**  
