@@ -1,4 +1,4 @@
-# Combination K-Means and LSTM for Social Media Black Campaign Detection
+# AI-Powered Detection of Black Campaigns: Hybrid K-Means & LSTM Model for 2024 Presidential Elections
 
 This project implements a machine learning pipeline combining **K-Means** clustering and **LSTM** (Long Short-Term Memory) for detecting black campaigns related to the **2024 Indonesia Presidential Candidates** on social media. The system aims to identify and categorize campaign-related posts for further analysis and monitoring.
 
